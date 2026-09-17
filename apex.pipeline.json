@@ -1,0 +1,5 @@
+{
+  "buildCommand": "echo build step ok",
+  "testCommand": "echo test step ok",
+  "image": "node:20"
+}
